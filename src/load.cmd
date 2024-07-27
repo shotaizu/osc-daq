@@ -1,0 +1,4 @@
+"ACQ:STATE ON"
+"*OPC?"
+"ACQ:NUMAC?"
+"CURV?"
